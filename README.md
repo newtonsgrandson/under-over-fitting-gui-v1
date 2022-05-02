@@ -7,4 +7,3 @@ The code is explained detaily on code with comment blocks.
 Thank you to use it. I hope that it will be useful for you.
 
 Have a good day.
-#matlab #machine-learning
